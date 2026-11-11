@@ -23,7 +23,7 @@ let numberOfLogs = 10;
 
 
 if(numberOfLog => 15){
-    clearInterval(logsomething)
+    clearInterval()
     console.log("we are done")
 }
 setInterval(loginfo, 1000)
