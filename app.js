@@ -28,5 +28,4 @@ if(numberOfLog => 15){
 }
 setInterval(loginfo, 1000)
 
-//we are trying to add something in the future
-//okay all good now 
+console.log("we are learning")
